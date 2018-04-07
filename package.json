@@ -1,7 +1,7 @@
 {
-  "name": "glitch-community-site",
+  "name": "proggy",
   "version": "0.0.1",
-  "description": "Find cool projects and people using Glitch",
+  "description": "",
   "scripts": {
     "start": "bash sh/start.sh"
   },
@@ -42,7 +42,7 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://github.com/FogCreek/Glitch-Community"
+    "url": "https://github.com/daveamato/proggy"
   },
   "keywords": [
     "node",
